@@ -1,6 +1,5 @@
 server:
   port: 8001
-#配置显示给消费者的服务器端标识信息
 ProviderVersion: UserProvider001
 spring:
   datasource:
